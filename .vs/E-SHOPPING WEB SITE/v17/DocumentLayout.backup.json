@@ -1,50 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\",
+  "WorkspaceRootPath": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\can\\documents\\github\\e-ticaret\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\can\\documents\\github\\e-ticaret\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\can\\documents\\github\\e-ticaret\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\can\\documents\\github\\e-ticaret\\app_start\\startup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:app_start\\startup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\can\\documents\\github\\e-ticaret\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\entity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T16:01:30.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "home.css",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\home.css",
-              "RelativeDocumentMoniker": "Content\\css\\home.css",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\home.css",
-              "RelativeToolTip": "Content\\css\\home.css",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-07T16:59:52.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "details.css",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\details.css",
-              "RelativeDocumentMoniker": "Content\\css\\details.css",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\details.css",
-              "RelativeToolTip": "Content\\css\\details.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-07T16:59:44.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T16:59:23.436Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:20:58.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T16:55:53.459Z",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:17:16.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T15:11:54.737Z",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Register.cs",
+              "ToolTip": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Models\\Register.cs",
+              "RelativeToolTip": "Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:12:11.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "DocumentIndex": 3,
+              "Title": "Startup1.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\App_Start\\Startup1.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup1.cs",
+              "ToolTip": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\App_Start\\Startup1.cs",
+              "RelativeToolTip": "App_Start\\Startup1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:09:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Identity\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Identity\\ApplicationRole.cs",
+              "RelativeToolTip": "Identity\\ApplicationRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:10:14.426Z",
+              "WhenOpened": "2024-12-08T14:54:32.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataInitializer.cs",
-              "RelativeDocumentMoniker": "Entity\\DataInitializer.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataInitializer.cs",
-              "RelativeToolTip": "Entity\\DataInitializer.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADQAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\can\\Documents\\GitHub\\e-ticaret\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:51:31.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataContext.cs",
-              "RelativeDocumentMoniker": "Entity\\DataContext.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataContext.cs",
-              "RelativeToolTip": "Entity\\DataContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAArwA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T16:14:03.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Category.cs",
-              "RelativeDocumentMoniker": "Entity\\Category.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Category.cs",
-              "RelativeToolTip": "Entity\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T16:06:59.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Product.cs",
-              "RelativeDocumentMoniker": "Entity\\Product.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Product.cs",
-              "RelativeToolTip": "Entity\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:57:55.902Z",
+              "WhenOpened": "2024-12-08T14:54:24.332Z",
               "EditorCaption": ""
             }
           ]

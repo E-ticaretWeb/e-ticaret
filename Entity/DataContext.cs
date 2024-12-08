@@ -4,6 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Security.Permissions;
 using System.Web;
+using E_SHOPPING_WEB_SITE.Identity;
 
 namespace E_SHOPPING_WEB_SITE.Entity
 {
@@ -20,4 +21,6 @@ namespace E_SHOPPING_WEB_SITE.Entity
 
 
     }
+
+    
 }
