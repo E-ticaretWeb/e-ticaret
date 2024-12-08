@@ -1,0 +1,188 @@
+﻿/* Ana Renkler */
+:root {
+    --main-color: white;
+    --brown-color: #5d462c;
+    --black-color: #0e0e0e;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    color: var(--black-color);
+    background-color: var(--main-color);
+}
+
+/* Home Section */
+.home {
+    background: url('../images/backgrounds_1.jpg') no-repeat center center/cover;
+    min-height: 100vh; /* Tam ekran yüksekliği */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 5%; /* Genişlikte boşluk */
+    margin-top: -200px;
+}
+
+
+    .home .content {
+        max-width: 60%;
+        color: var(--brown-color);
+    }
+
+        .home .content h3 {
+            font-size: 4rem; /* Daha büyük başlık */
+            font-weight: 700; /* Kalın başlık */
+            line-height: 1.3; /* Satır yüksekliği */
+            margin-bottom: 1.5rem; /* Alt boşluk */
+            text-transform: uppercase; /* Büyük harfler */
+            color: #fff; /* Beyaz renk */
+        }
+
+        .home .content p {
+            font-size: 1.5rem; /* Daha büyük alt metin */
+            line-height: 1.8; /* Satır yüksekliği */
+            margin-bottom: 2rem; /* Alt boşluk */
+            color: #f9f9f9; /* Daha açık bir beyaz tonu */
+        }
+
+        .home .content .btn {
+            font-size: 1.2rem;
+            padding: 1rem 2rem;
+            background-color: var(--brown-color);
+            color: white;
+            border-radius: 5px;
+        }
+
+            .home .content .btn:hover {
+                background-color: var(--black-color);
+            }
+
+/* Categories Section */
+.categories {
+    padding: 4rem 2rem;
+    background-color: var(--main-color);
+}
+
+    .categories .heading {
+        font-size: 2.5rem;
+        text-align: center;
+        margin-bottom: 2rem;
+        color: var(--brown-color);
+        text-transform: uppercase;
+    }
+
+        .categories .heading span {
+            color: var(--black-color);
+        }
+
+    .categories .box-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+        gap: 1.5rem;
+    }
+
+    .categories .box {
+        background: white;
+        border-radius: 1.5rem;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        text-align: center;
+        padding: 1.5rem;
+        transition: transform 0.3s ease;
+    }
+
+        .categories .box:hover {
+            transform: scale(1.05);
+        }
+
+        .categories .box img {
+            width: 100%; 
+            height: 200px; 
+            object-fit: contain; 
+            border-radius: 1rem; 
+            display: block; 
+            margin: 0 auto; 
+        }
+
+        .categories .box h3 {
+            font-size: 1.8rem;
+            margin-top: 1rem;
+            color: var(--brown-color);
+        }
+
+        .categories .box .btn {
+            margin-top: 1rem;
+            padding: 0.8rem 1.5rem;
+            font-size: 1.2rem;
+            background-color: var(--brown-color);
+            color: white;
+            border-radius: 1rem;
+        }
+
+            .categories .box .btn:hover {
+                background-color: var(--black-color);
+            }
+
+/* Highlights Section */
+.highlights {
+    padding: 4rem 2rem;
+    background-color: var(--main-color);
+}
+
+    .highlights .heading {
+        font-size: 2.5rem;
+        text-align: center;
+        margin-bottom: 2rem;
+        color: var(--brown-color);
+        text-transform: uppercase;
+    }
+
+        .highlights .heading span {
+            color: var(--black-color);
+        }
+
+    .highlights .box-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+        gap: 1.5rem;
+    }
+
+    .highlights .box {
+        background: white;
+        border-radius: 1.5rem;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        text-align: center;
+        padding: 1.5rem;
+        transition: transform 0.3s ease;
+    }
+
+        .highlights .box:hover {
+            transform: scale(1.05);
+        }
+
+        .highlights .box img {
+            width: 100%; 
+            height: 200px; 
+            object-fit: contain; 
+            border-radius: 1rem; 
+            display: block; 
+            margin: 0 auto;
+        }
+
+        .highlights .box h3 {
+            font-size: 1.8rem;
+            margin-top: 1rem;
+            color: var(--brown-color);
+        }
+
+        .highlights .box .price {
+            font-size: 1.5rem;
+            margin: 1rem 0;
+        }
+
+            .highlights .box .price span {
+                text-decoration: line-through;
+                font-size: 1.2rem;
+                color: gray;
+            }

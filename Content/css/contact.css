@@ -1,0 +1,136 @@
+﻿:root {
+    --contact-header-bg: #5d462c;
+    --contact-header-text: white;
+    --form-bg: #ffffff;
+    --form-border: 1px solid #ddd;
+}
+
+/* Contact Header */
+.contact-header {
+    background: url('../images/c3.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start; 
+    text-align: center;
+    position: relative;
+    color: white;
+    margin-top: -15rem;
+    padding: 2rem 5%;
+}
+
+    .contact-header h1 {
+        font-size: 2.5rem; /* Daha büyük yazı boyutu */
+        font-weight: bold;
+        text-transform: uppercase;
+        background-color: rgba(93, 70, 44, 0.8); /* Şeffaf arka plan */
+        padding: 1.5rem 2rem; /* İç boşluk */
+        border-radius: 1rem; /* Kenar yuvarlama */
+        margin: 0 auto; /* Ortalamayı kesinleştir */
+        display: inline-block; /* Blok seviyesinde */
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Hafif gölge */
+    }
+
+/* Contact Section */
+.contact {
+
+    padding: 4rem 2rem;
+}
+
+.contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.left-column,
+.right-column {
+    flex: 1;
+    min-width: 300px;
+}
+
+.contact-info, .follow-us {
+    background-color: var(--form-bg);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+    .contact-info h2, .follow-us h2 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        color: var(--brown-color);
+    }
+
+    .contact-info p, .follow-us p {
+        font-size: 1.2rem;
+        line-height: 1.8;
+        color: var(--black-color);
+    }
+
+.social-icons a {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    color: var(--brown-color);
+    transition: color 0.3s ease;
+}
+
+    .social-icons a:hover {
+        color: var(--black-color);
+    }
+
+/* Form */
+.form {
+    background-color: var(--form-bg);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+    .form h2 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        color: var(--brown-color);
+    }
+
+    .form label {
+        font-size: 1.2rem;
+        color: var(--black-color);
+        display: block;
+        margin-top: 1rem;
+    }
+
+    .form input, .form textarea {
+        width: 100%;
+        padding: 0.8rem;
+        margin-top: 0.5rem;
+        border-radius: 5px;
+        border: var(--form-border);
+        background-color: #f5f5f5;
+    }
+
+        .form input:focus, .form textarea:focus {
+            border-color: var(--brown-color);
+        }
+
+    .form textarea {
+        resize: none;
+        height: 10rem;
+    }
+
+    .form button {
+        background-color: var(--brown-color);
+        color: white;
+        padding: 0.8rem 1.5rem;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin-top: 1rem;
+    }
+
+        .form button:hover {
+            background-color: var(--black-color);
+        }

@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "About Us - Your Hairdresser";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/Content/css/aboutUs.css">
+}
+
+<!-- Kaydırmalı Slayt (Slider) Bölümü -->
+<section class="slider">
+    <div class="slides">
+        <div class="slide active">
+            <img src="~/Content/images/salon1.jpg" alt="Salon Image 1">
+            <div class="caption">
+                <h2>Welcome to Your Hairdresser</h2>
+                <p>Experience the best in hair care.</p>
+            </div>
+        </div>
+        <div class="slide">
+            <img src="~/Content/images/salon2.jpg" alt="Salon Image 2">
+            <div class="caption">
+                <h2>Top Quality Products</h2>
+                <p>Only the finest tools and products for your needs.</p>
+            </div>
+        </div>
+        <div class="slide">
+            <img src="~/Content/images/salon3.jpg" alt="Salon Image 3">
+            <div class="caption">
+                <h2>Professional Expertise</h2>
+                <p>Our team of experts ensures your success.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="navigation">
+        <i class="fas fa-chevron-left prev"></i>
+        <i class="fas fa-chevron-right next"></i>
+    </div>
+</section>
+
+<!-- About Us İçeriği -->
+<main>
+    <section class="about">
+        <div class="container">
+            <h1>About Us</h1>
+            <p>At Your Hairdresser, we are passionate about delivering top-quality hairdressing supplies to professionals and enthusiasts alike. With years of experience in the beauty industry, our goal is to empower hairdressers, salon owners, and individuals at home to achieve the best results using the finest tools and products.</p>
+            <p>We offer a wide range of hair care products, styling tools, and accessories, ensuring that you have everything you need to perfect your craft. Our team of experts carefully selects each product, ensuring both quality and performance.</p>
+            <p>Our mission is to help hairdressers excel, whether you are a beginner or an experienced professional. We pride ourselves on excellent customer service and ongoing support for our clients.</p>
+        </div>
+    </section>
+</main>
+
+@section Scripts {
+    <script src="~/Content/js/aboutUs.js"></script>
+}

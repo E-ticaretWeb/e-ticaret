@@ -1,0 +1,31 @@
+﻿@using E_SHOPPING_WEB_SITE.Entity
+@model Product
+
+@section Styles {
+    <link rel="stylesheet" href="~/Content/css/details.css">
+}
+@{
+    ViewBag.Title = "Details";
+}
+
+<section class="details">
+    <div class="details-container">
+
+        <div class="details-image">
+            <img src="~/Content/images/sampuan_1.jpg" alt="@Model.Name" />
+        </div>
+
+        <!-- Ürün Bilgileri -->
+        <div class="details-info">
+            <h1 class="details-title">@Model.Name</h1>
+            <p class="details-description">@Model.Description</p>
+            <p class="details-price">Price: <span>$@Model.Price</span></p>
+            <p class="details-stock">@Model.Stock in stock</p>
+
+            <div class="details-buttons">
+                <a href="/" class="btn">Back to Home</a>
+                <a href="#" class="btn">Add to Cart</a>
+            </div>
+        </div>
+    </div>
+</section>

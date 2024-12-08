@@ -1,0 +1,68 @@
+﻿/* Details Section */
+.details {
+    padding: 4rem 2rem;
+    background-color: var(--main-color);
+}
+
+.details-container {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    background: #fff;
+    border-radius: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 2rem;
+}
+
+/* Ürün Görseli */
+.details-image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 1rem;
+    object-fit: contain;
+}
+
+/* Ürün Bilgileri */
+.details-info {
+    flex: 1;
+    padding: 0 1rem;
+    color: var(--brown-color);
+}
+
+.details-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: var(--brown-color);
+}
+
+.details-description {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    color: var(--black-color);
+}
+
+.details-price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+    .details-price span {
+        color: var(--brown-color);
+    }
+
+.details-stock {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: var(--black-color);
+}
+
+/* Butonlar */
+.details-buttons .btn {
+    margin-right: 1rem;
+}

@@ -1,0 +1,93 @@
+﻿:root {
+    --slider-bg-color: #f9f9f9; /* Slider için ayrı bir renk */
+}
+
+/* Slider */
+.slider {
+    width: 100%;
+    height: 30vh;
+    position: relative;
+    overflow: hidden;
+    background-color: var(--slider-bg-color);
+}
+
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    height: 100%;
+}
+
+.slide {
+    min-width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+    .slide img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+.caption {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+    .caption h2 {
+        font-size: 2.5rem;
+        margin: 0 0 0.5rem 0;
+    }
+
+    .caption p {
+        font-size: 1.5rem;
+    }
+
+/* Navigation Buttons */
+.navigation {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+    padding: 0 20px;
+}
+
+    .navigation .prev, .navigation .next {
+        font-size: 2.5rem;
+        color: white;
+        cursor: pointer;
+    }
+
+/* About Section */
+.about {
+    padding: 4rem 2rem;
+    background-color: var(--main-color);
+    text-align: center;
+}
+
+    .about .container {
+        max-width: 80%;
+        margin: 0 auto;
+    }
+
+    .about h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+        color: var(--brown-color);
+    }
+
+    .about p {
+        font-size: 1.2rem;
+        line-height: 1.8;
+        color: var(--black-color);
+        margin-bottom: 1.2rem;
+        text-align:justify;
+
+    }
