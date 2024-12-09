@@ -7,6 +7,7 @@ using E_SHOPPING_WEB_SITE.Identity;
 using E_SHOPPING_WEB_SITE.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using Microsoft.Owin.Security;
 
 namespace E_SHOPPING_WEB_SITE.Controllers
 {
@@ -44,9 +45,9 @@ namespace E_SHOPPING_WEB_SITE.Controllers
                 user.UserName = model.Username;
                 var result = UserManager.Create(user, model.Password);
                 if (result.Succeeded)
-                    if (RoleManager.RoleExists("User"))
+                    if (RoleManager.RoleExists("user"))
                     {
-                        UserManager.AddToRole(user.Id, "User");
+                        UserManager.AddToRole(user.Id, "user");
                     }
                 return RedirectToAction("Login", "Account");
             }
@@ -71,13 +72,35 @@ namespace E_SHOPPING_WEB_SITE.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = UserManager.Find(model.Username, model.Password);
+                var user = UserManager.Find(model.UserName, model.Password);
                 if (user != null)
                 {
                     var authManager = HttpContext.GetOwinContext().Authentication;
+
+                    var identityclaims = UserManager.CreateIdentity(user, "ApplicationCookie");
+                    var authProperties = new AuthenticationProperties();
+                    authProperties.IsPersistent = model.RememberMe;
+
+                    authManager.SignIn(authProperties, identityclaims);
+
+                    return RedirectToAction("Index", "Home");
+                }
+                else
+                {
+                    ModelState.AddModelError("LoginUserError", "There is no such user ");
                 }
             }
             return View(model);
         }
+
+
+        public ActionResult Logout()
+        {
+            var authManager = HttpContext.GetOwinContext().Authentication;
+            authManager.SignOut();
+
+            return RedirectToAction("Index", "Home");
+        }
+
     }
 }

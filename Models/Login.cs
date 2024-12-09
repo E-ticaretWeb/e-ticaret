@@ -11,7 +11,7 @@ namespace E_SHOPPING_WEB_SITE.Models
     {
         [Required]
         [DisplayName("Username")]
-        public string Username { get; set; }
+        public string UserName { get; set; }
 
         [Required]
         [DisplayName("Password")]

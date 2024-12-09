@@ -25,7 +25,7 @@ namespace E_SHOPPING_WEB_SITE.Models
 
         public string Email{ get; set; }
         [Required]
-        [DisplayName("Passsword")]
+        [DisplayName("Password")]
         public string Password { get; set; }
         [Required]
         [DisplayName("rePassword")]
