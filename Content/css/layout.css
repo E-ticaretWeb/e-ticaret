@@ -1,4 +1,4 @@
-﻿:root {
+:root {
     --main-color: white;
     --black-color: #0e0e0e;
     --brown-color: #5d462c;
@@ -45,6 +45,7 @@ body {
     .header .navbar {
         display: flex;
         gap: 2rem; /* Menü elemanları arası boşluk */
+        position: relative; /* Kategoriler için bağlam */
     }
 
         .header .navbar a {
@@ -57,6 +58,53 @@ body {
 
             .header .navbar a:hover {
                 border-bottom: 0.1rem solid #5d462c; /* Hover alt çizgisi */
+            }
+
+        /* Categories Menüsü */
+        .header .navbar .menu {
+            position: relative;
+        }
+
+            .header .navbar .menu span {
+                font-size: 1.6rem;
+                color: #5d462c;
+                cursor: pointer;
+            }
+
+            .header .navbar .menu .dropdown {
+                display: none;
+                position: absolute;
+                top: 100%; /* Menü altında açılacak */
+                left: 0;
+                background-color: var(--main-color);
+                box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+                border-radius: 0.5rem;
+                overflow: hidden;
+                z-index: 9999; /* Menülerin diğer her şeyin üzerinde olmasını sağlar */
+                opacity: 0;
+                visibility: hidden;
+                transform: translateY(-10px);
+                transition: all 0.3s ease;
+            }
+
+                .header .navbar .menu .dropdown li {
+                    padding: 1rem 2rem;
+                    font-size: 1.4rem;
+                    color: var(--black-color);
+                    cursor: pointer;
+                    transition: background-color 0.2s;
+                }
+
+                    .header .navbar .menu .dropdown li:hover {
+                        background-color: #f0f0f0;
+                    }
+
+            /* Hover ile açılma */
+            .header .navbar .menu:hover .dropdown {
+                display: block;
+                opacity: 1;
+                visibility: visible;
+                transform: translateY(0);
             }
 
     .header .buttons {
@@ -76,7 +124,6 @@ body {
             .header .buttons button:hover {
                 color: #0e0e0e; /* Hover renk */
             }
-
 
 /* Genel Buton Stili */
 .btn {
