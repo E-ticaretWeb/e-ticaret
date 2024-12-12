@@ -68,7 +68,7 @@ namespace E_SHOPPING_WEB_SITE.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Login(Login model)
+        public ActionResult Login(Login model, string ReturnUrl)
         {
             if (ModelState.IsValid)
             {
@@ -82,6 +82,11 @@ namespace E_SHOPPING_WEB_SITE.Controllers
                     authProperties.IsPersistent = model.RememberMe;
 
                     authManager.SignIn(authProperties, identityclaims);
+
+                    if (!String.IsNullOrEmpty(ReturnUrl))
+                    {
+                      return Redirect(ReturnUrl);
+                    }
 
                     return RedirectToAction("Index", "Home");
                 }

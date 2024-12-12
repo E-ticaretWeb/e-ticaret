@@ -11,7 +11,7 @@ namespace E_SHOPPING_WEB_SITE.Identity
 {
     public class IdentityInitializer : CreateDatabaseIfNotExists<IdentityDataContext>
     {
-        public override void InitializeDatabase(IdentityDataContext context)
+        protected override void Seed(IdentityDataContext context)
         {
             if (!context.Roles.Any(i => i.Name == "admin"))
             {
@@ -29,7 +29,7 @@ namespace E_SHOPPING_WEB_SITE.Identity
                 manager.Create(role);
             }
 
-            if (!context.Roles.Any(i => i.Name == "Idildogan"))
+            if (!context.Users.Any(i => i.Name == "Idildogan"))
             {
                 var store = new UserStore<ApplicationUser>(context);
                 var manager = new UserManager<ApplicationUser>(store);
@@ -40,7 +40,7 @@ namespace E_SHOPPING_WEB_SITE.Identity
                 manager.AddToRole(user.Id, "user");
             }
 
-            if (!context.Roles.Any(i => i.Name == "omertanik"))
+            if (!context.Users.Any(i => i.Name == "omertanik"))
             {
                 var store = new UserStore<ApplicationUser>(context);
                 var manager = new UserManager<ApplicationUser>(store);

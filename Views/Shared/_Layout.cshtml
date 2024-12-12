@@ -14,26 +14,7 @@
 </head>
 <body>
     <!-- Ortak Navbar ve Header -->
-    <header class="header">
-        <a href="#" class="logo">
-            <img src="~/Content/images/logo.png" alt="logo" />
-        </a>
-
-        <nav class="navbar">
-            <a href="/Home/Index">Home</a>
-            <a href="/Home/About">About Us</a>
-            <a href="/Home/Contact">Contact</a>
-        </nav>
-
-        <div class="buttons">
-            <button>
-                <i class="fa-solid fa-magnifying-glass"></i>
-            </button>
-            <button>
-                <i class="fa-solid fa-cart-shopping"></i>
-            </button>
-        </div>
-    </header>
+    @Html.Partial("_LoginPartial")
     <!-- Sayfa İçeriği -->
     <main>
         @RenderBody()

@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\user\\documents\\web pages\\e-ticaret\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\identity\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\user\\documents\\web pages\\e-ticaret\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\user\\documents\\web pages\\e-ticaret\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\identity\\identitydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\identitydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\user\\documents\\web pages\\e-ticaret\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\user\\documents\\web pages\\e-ticaret\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\user\\documents\\web pages\\e-ticaret\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\user\\documents\\web pages\\e-ticaret\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,82 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "Entity\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\User.cs*",
-              "RelativeToolTip": "Entity\\User.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:09:10.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Models\\Login.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Models\\Login.cs",
-              "RelativeToolTip": "Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:52:10.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\DataContext.cs",
-              "RelativeDocumentMoniker": "Entity\\DataContext.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\DataContext.cs",
-              "RelativeToolTip": "Entity\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:12:52.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IdentityDataContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Identity\\IdentityDataContext.cs",
-              "RelativeDocumentMoniker": "Identity\\IdentityDataContext.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Identity\\IdentityDataContext.cs",
-              "RelativeToolTip": "Identity\\IdentityDataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T19:37:13.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Global.asax.cs",
-              "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:12:39.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdentityInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Identity\\IdentityInitializer.cs",
-              "RelativeDocumentMoniker": "Identity\\IdentityInitializer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Identity\\IdentityInitializer.cs",
-              "RelativeToolTip": "Identity\\IdentityInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:14:11.51Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -138,61 +52,101 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEoAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:20:58.929Z",
+              "WhenOpened": "2024-12-12T18:14:25.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T18:03:01.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-08T20:06:16.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-08T20:50:11.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-08T16:18:47.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T18:05:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Models\\Register.cs",
-              "RelativeDocumentMoniker": "Models\\Register.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Models\\Register.cs",
-              "RelativeToolTip": "Models\\Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Identity\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Identity\\ApplicationRole.cs",
+              "RelativeToolTip": "Identity\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:12:11.236Z"
+              "WhenOpened": "2024-12-12T17:48:33.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\User.cs",
+              "RelativeToolTip": "Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:09:10.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\DataContext.cs",
+              "RelativeDocumentMoniker": "Entity\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Web Pages\\e-ticaret\\Entity\\DataContext.cs",
+              "RelativeToolTip": "Entity\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:12:52.532Z",
+              "EditorCaption": ""
             }
           ]
         }

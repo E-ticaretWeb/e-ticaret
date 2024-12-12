@@ -14,7 +14,7 @@ namespace E_SHOPPING_WEB_SITE.Entity
 
         public DataContext() : base("dataConnection")
         {
-            
+            Database.SetInitializer(new DataInitializer());
         }
         public  DbSet<Category> Categories { get; set; }
         public  DbSet<Product> Products { get; set; }
