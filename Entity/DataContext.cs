@@ -10,14 +10,16 @@ namespace E_SHOPPING_WEB_SITE.Entity
     public class DataContext : DbContext
 
     {
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<SubCategory> SubCategories { get; set; }
 
-        public DataContext() : base("DataConnection")
+
+
+        public DataContext() : base("DefaultConnection") // bağlama işlemi
         {
-            Database.SetInitializer(new DataInitializer());
+            
         }
-        public  DbSet<Category> Categories { get; set; }
-        public  DbSet<Product> Products { get; set; }
-
 
     }
 }

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<E_SHOPPING_WEB_SITE.Entity.Category>
+
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="categoriesDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+        Categories
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="categoriesDropdown">
+        @foreach (var category in Model)
+        {
+            <li class="dropdown-submenu">
+                <a class="dropdown-item dropdown-toggle" href="@Url.Action("CategoryProducts", "Category", new { id = category.Id })">
+                    @category.Name
+                </a>
+                @if (category.SubCategories != null && category.SubCategories.Any())
+                {
+                    <ul class="dropdown-menu">
+                        @foreach (var subCategory in category.SubCategories)
+                        {
+                            <li>
+                                <a class="dropdown-item" href="@Url.Action("CategoryProducts", "Category", new { id = subCategory.Id })">
+                                    @subCategory.Name
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                }
+            </li>
+        }
+    </ul>
+</div>

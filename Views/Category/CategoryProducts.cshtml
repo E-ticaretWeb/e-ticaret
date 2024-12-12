@@ -1,0 +1,33 @@
+﻿@model IEnumerable<E_SHOPPING_WEB_SITE.Entity.Product>
+
+@section Styles {
+    <link rel="stylesheet" href="~/Content/css/home.css">
+    <link rel="stylesheet" href="~/Content/css/CategoryProduct.css">
+}
+
+<h1 class="text-center mt-4">@ViewBag.CategoryName</h1>
+<div class="container mt-4">
+    <div class="row">
+        <!-- Filtreleme Bölümü -->
+        <div class="col-lg-2">
+            <div class="filter-section">
+                <h5>Kategoriler</h5>
+                <ul class="category-filter">
+                    @foreach (var category in ViewBag.Categories as IEnumerable<E_SHOPPING_WEB_SITE.Entity.Category>)
+                    {
+                        <li>
+                            <a href="@Url.Action("CategoryProducts", "Category", new { id = category.Id })" class="@(ViewBag.SelectedCategoryId == category.Id ? "active" : "")">
+                                @category.Name
+                            </a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+        <!-- Ürünler -->
+        <div class="col-lg-10">
+            @Html.Partial("_ProductList", Model)
+        </div>
+    </div>
+</div>

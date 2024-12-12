@@ -1,31 +1,104 @@
-﻿@using E_SHOPPING_WEB_SITE.Entity
-@model Product
+﻿@model E_SHOPPING_WEB_SITE.Entity.Product
 
 @section Styles {
+
     <link rel="stylesheet" href="~/Content/css/details.css">
 }
-@{
-    ViewBag.Title = "Details";
+@section Scripts {
+    <script src="~/Content/js/details.js"></script>
+
 }
 
-<section class="details">
-    <div class="details-container">
-
-        <div class="details-image">
-            <img src="~/Content/images/sampuan_1.jpg" alt="@Model.Name" />
+<div class="details modern-container">
+    <div class="row">
+        <!--left column - product image -->
+        <div class="col-lg-6 col-md-12 details-image-container">
+            <img src="~/Upload/@Model.Image" alt="@Model.Name" class="details-image" />
         </div>
 
-        <!-- Ürün Bilgileri -->
-        <div class="details-info">
+        <!-- right column - product info -->
+        <div class="col-lg-6 col-md-12 details-info-container">
             <h1 class="details-title">@Model.Name</h1>
-            <p class="details-description">@Model.Description</p>
-            <p class="details-price">Price: <span>$@Model.Price</span></p>
-            <p class="details-stock">@Model.Stock in stock</p>
+            <div class="rating">★★★★☆ <small>(5 üzerinden)</small></div>
 
-            <div class="details-buttons">
-                <a href="/" class="btn">Back to Home</a>
-                <a href="#" class="btn">Add to Cart</a>
+            <!-- Description -->
+            <div class="product-list-row">
+                <div class="product-list-title"></div>
+                <div class="product-list-content">
+                    <p>@Model.Description.Substring(0, Math.Min(Model.Description.Length, 200))...</p>
+                </div>
+            </div>
+
+            <!-- Category -->
+            <div class="details-attribute">
+                <span class="details-attribute-title">Kategori:</span>
+                <span class="details-attribute-content">
+                    <a href="/Categories/@Model.SubCategory" title="@Model.SubCategory.Name">@Model.SubCategory.Name</a>
+                </span>
+            </div>
+
+            <!-- Brand -->
+            <div class="details-attribute">
+                <span class="details-attribute-title">Marka:</span>
+                <span class="details-attribute-content">
+                    <a href="/marka/@Model.Brand" title=" @Model.Brand">@Model.Brand</a>
+                </span>
+            </div>
+
+
+            <!-- Price -->
+            <div class="product-list-row">
+                <div class="product-list-title"></div>
+                <div class="product-list-content">
+                    <div class="product-list-price">
+                        <strong>₺@Model.Price.ToString("F2")</strong></p>
+                    </div>
+                    </div>
+            </div>
+
+            <!-- Fav and Comment -->
+            <div class="details-actions mt-3">
+                <span class="action-link">Favorilere Ekle</span>
+                <span class="action-link">|</span>
+                <span class="action-link">Yorum Yaz</span>
+            </div>
+
+            <!-- Add to Cart -->
+            <div class="add-to-cart">
+                <input type="number" min="1" value="1" class="quantity form-control" />
+                <button class="add-to-cart-button btn">Sepete Ekle</button>
+                <button class="favorite-button btn">
+                    <i class="fa-solid fa-heart"></i>
+                </button>
             </div>
         </div>
     </div>
-</section>
+
+    <!-- tabs -->
+    <div class="details-tabs mt-5">
+        <ul class="nav nav-tabs" id="detailsTab" role="tablist">
+            <li class="nav-item">
+                <button class="nav-link active" id="features-tab" data-bs-toggle="tab" data-bs-target="#features" type="button" role="tab">Ürün Özellikleri</button>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link" id="reviews-tab" data-bs-toggle="tab" data-bs-target="#reviews" type="button" role="tab">Yorumlar</button>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link" id="policy-tab" data-bs-toggle="tab" data-bs-target="#policy" type="button" role="tab">İade Politikası</button>
+            </li>
+        </ul>
+        <div class="tab-content mt-3" id="detailsTabContent">
+            <div class="tab-pane fade show active" id="features" role="tabpanel">
+                <ul>
+                    <li>@Model.Description</li>
+                </ul>
+            </div>
+            <div class="tab-pane fade" id="reviews" role="tabpanel">
+                <p>Henüz yorum yapılmamış. İlk yorumu siz yapabilirsiniz!</p>
+            </div>
+            <div class="tab-pane fade" id="policy" role="tabpanel">
+                <p>İade politikamız kapsamında 30 gün içinde ürünleri iade edebilirsiniz. Detaylar için müşteri hizmetlerine başvurun.</p>
+            </div>
+        </div>
+    </div>
+</div>

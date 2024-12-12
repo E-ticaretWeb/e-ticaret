@@ -12,10 +12,15 @@ namespace E_SHOPPING_WEB_SITE.Entity
         public string Name { get; set; }
         public string Description { get; set; }
         public int Stock { get; set; }
+
+        public string Image { get; set; }
+        public string Brand { get; set; }
         public double Price { get; set; }
         public bool isApproved { get; set; }
-        public Category Category { get; set; }
-        public int CategoryId { get; set; }
+
+        public int SubCategoryId { get; set; }  // FOREIGN KEY
+        public SubCategory SubCategory { get; set; }
+
 
 
     }

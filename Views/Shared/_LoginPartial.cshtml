@@ -1,0 +1,23 @@
+﻿<div class="buttons">
+    @if (Request.IsAuthenticated)
+    {
+        <span>Welcome, @User.Identity.Name!</span>
+        <button>
+            <i class="fa-solid fa-user"></i>
+        </button>
+        <a href="/Account/Logout">Logout</a>
+    }
+    else
+    {
+        <button>
+            <i class="fa-solid fa-user"></i>
+        </button>
+        <a href="/Account/Login">Login</a>
+    }
+    <button>
+        <i class="fa-solid fa-magnifying-glass"></i>
+    </button>
+    <button>
+        <i class="fa-solid fa-cart-shopping"></i>
+    </button>
+</div>

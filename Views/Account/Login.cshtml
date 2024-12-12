@@ -1,0 +1,44 @@
+﻿@model E_SHOPPING_WEB_SITE.Models.Login
+
+@{
+    ViewBag.Title = "Login";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/Content/css/login-register.css" />
+}
+
+<div class="auth-page">
+    <div class="auth-container">
+        <div class="auth-header">
+            <h2>Login</h2>
+            <p>Welcome back! Please login to your account.</p>
+        </div>
+        @using (Html.BeginForm("Login", "Account", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+
+           
+            <div>
+                @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+            </div>
+            <div class="auth-form">
+                @Html.TextBoxFor(m => m.UserName, new { @class = "form-input", placeholder = "Username" })
+                @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+
+                @Html.PasswordFor(m => m.Password, new { @class = "form-input", placeholder = "Password" })
+                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+
+                <div class="form-check">
+                    @Html.CheckBoxFor(m => m.RememberMe, new { @class = "form-check-input" })
+                    @Html.LabelFor(m => m.RememberMe, new { @class = "form-check-label" })
+                </div>
+
+                <button type="submit" class="btn-primary">Login</button>
+            </div>
+        }
+        <div class="auth-footer">
+            <p>Don't have an account? <a href="/Account/Register">Register Now</a></p>
+        </div>
+    </div>
+</div>

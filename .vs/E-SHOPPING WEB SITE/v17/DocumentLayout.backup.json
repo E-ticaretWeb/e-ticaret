@@ -1,50 +1,87 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\e-ticaret\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\identity\\identitydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\identitydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\proje\\e-shopping web site\\entity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\entity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\e-ticaret\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\e-ticaret\\entity\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmtk\\AppData\\Local\\Temp\\xo3fptwt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\identity\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\content\\css\\login-register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:content\\css\\login-register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|c:\\users\\ahmtk\\onedrive\\masa\u00FCst\u00FC\\e-ticaret\\content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\app_start\\startup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:app_start\\startup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\content\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CAA58F0-2B16-461E-B6C4-156CA8D159A2}|E-SHOPPING WEB SITE.csproj|solutionrelative:content\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmtk\\AppData\\Local\\Temp\\xo3fptwt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmtk\\AppData\\Local\\Temp\\xo3fptwt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +91,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T16:01:30.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "home.css",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\home.css",
-              "RelativeDocumentMoniker": "Content\\css\\home.css",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\home.css",
-              "RelativeToolTip": "Content\\css\\home.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-07T16:59:52.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "details.css",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\details.css",
-              "RelativeDocumentMoniker": "Content\\css\\details.css",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Content\\css\\details.css",
-              "RelativeToolTip": "Content\\css\\details.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-07T16:59:44.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T16:59:23.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T16:55:53.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T15:11:54.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\Product.cs",
+              "RelativeToolTip": "Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:10:14.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataInitializer.cs",
-              "RelativeDocumentMoniker": "Entity\\DataInitializer.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataInitializer.cs",
-              "RelativeToolTip": "Entity\\DataInitializer.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:51:31.667Z",
+              "WhenOpened": "2024-12-12T19:26:32.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataContext.cs",
-              "RelativeDocumentMoniker": "Entity\\DataContext.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\DataContext.cs",
-              "RelativeToolTip": "Entity\\DataContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAArwA0AAAAfAAAAAAAAAA==",
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\SubCategory.cs",
+              "RelativeDocumentMoniker": "Entity\\SubCategory.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\SubCategory.cs",
+              "RelativeToolTip": "Entity\\SubCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T16:14:03.727Z",
+              "WhenOpened": "2024-12-12T19:26:31.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Category.cs",
-              "RelativeDocumentMoniker": "Entity\\Category.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Category.cs",
-              "RelativeToolTip": "Entity\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T16:06:59.612Z",
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\AppData\\Local\\Temp\\xo3fptwt..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\xo3fptwt..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-12T19:00:34.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Product.cs",
-              "RelativeDocumentMoniker": "Entity\\Product.cs",
-              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\E-SHOPPING WEB SITE\\Entity\\Product.cs",
-              "RelativeToolTip": "Entity\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\ApplicationRole.cs",
+              "RelativeToolTip": "Identity\\ApplicationRole.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:57:55.902Z",
+              "WhenOpened": "2024-12-12T15:19:05.522Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-12T15:16:08.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\IdentityDataContext.cs",
+              "RelativeDocumentMoniker": "Identity\\IdentityDataContext.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\IdentityDataContext.cs",
+              "RelativeToolTip": "Identity\\IdentityDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:16:01.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "Entity\\DataInitializer.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\DataInitializer.cs",
+              "RelativeToolTip": "Entity\\DataInitializer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:15:49.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAowHUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:41:54.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:18:47.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:06:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T03:59:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "login-register.css",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Content\\css\\login-register.css",
+              "RelativeDocumentMoniker": "Content\\css\\login-register.css",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Content\\css\\login-register.css",
+              "RelativeToolTip": "Content\\css\\login-register.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T02:53:49.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\DataContext.cs",
+              "RelativeDocumentMoniker": "Entity\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Entity\\DataContext.cs",
+              "RelativeToolTip": "Entity\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:15:53.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdentityInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\IdentityInitializer.cs",
+              "RelativeDocumentMoniker": "Identity\\IdentityInitializer.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\IdentityInitializer.cs",
+              "RelativeToolTip": "Identity\\IdentityInitializer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:20:39.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:19:28.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Content\\css\\home.css",
+              "RelativeDocumentMoniker": "Content\\css\\home.css",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Content\\css\\home.css",
+              "RelativeToolTip": "Content\\css\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T16:21:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:21:29.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\App_Start\\Startup1.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup1.cs",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\App_Start\\Startup1.cs",
+              "RelativeToolTip": "App_Start\\Startup1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:21:58.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "layout.css",
+              "DocumentMoniker": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Content\\css\\layout.css",
+              "RelativeDocumentMoniker": "Content\\css\\layout.css",
+              "ToolTip": "C:\\Users\\ahmtk\\OneDrive\\Masa\u00FCst\u00FC\\e-ticaret\\Content\\css\\layout.css",
+              "RelativeToolTip": "Content\\css\\layout.css",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAwwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T03:34:42.585Z"
             }
           ]
         }

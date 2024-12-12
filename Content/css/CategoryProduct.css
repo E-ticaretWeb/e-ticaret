@@ -1,0 +1,37 @@
+﻿.filter-section {
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+    margin-right: 20px; 
+    width: 200px;
+}
+
+    .filter-section h5 {
+        font-size: 1.5rem;
+        color: #5d462c;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+
+.category-filter {
+    list-style: none;
+    padding: 0;
+}
+
+    .category-filter li {
+        margin-bottom: 0.8rem;
+    }
+
+    .category-filter a {
+        text-decoration: none;
+        color: #5d462c;
+        font-size: 1.2rem;
+        transition: color 0.3s;
+    }
+
+        .category-filter a:hover {
+            color: #e74c3c;
+        }
