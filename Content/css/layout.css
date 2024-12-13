@@ -275,6 +275,51 @@ body {
 
 /*NAVBAR'DAKI CATEGORIES BÖLÜMÜ */
 
+/* Sepet özeti stilini ekliyoruz */
+.cart-summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem; /* İkon ile metin arası boşluk */
+    font-size: 1.2rem; /* Yazı boyutu */
+    color: #5d462c; /* Kahverengi tonu */
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+    .cart-summary:hover {
+        color: #0e0e0e; /* Hoverda daha koyu bir ton */
+    }
+
+    /* Sepet özeti için ikon düzenlemesi */
+    .cart-summary i {
+        font-size: 1.5rem; /* İkon boyutu */
+        transition: transform 0.3s ease, color 0.3s ease;
+    }
+
+    .cart-summary:hover i {
+        transform: scale(1.2); /* Hoverda ikon büyütme efekti */
+        color: #0e0e0e;
+    }
+
+    /* Sepet özeti metni */
+    .cart-summary span {
+        font-size: 1rem; /* Yazı boyutu */
+        color: #5d462c;
+        font-weight: normal;
+    }
+
+/* Responsive düzenleme */
+@media (max-width: 768px) {
+    .cart-summary {
+        font-size: 1rem; /* Daha küçük ekranlarda yazı boyutunu küçült */
+    }
+
+        .cart-summary i {
+            font-size: 1.3rem; /* Daha küçük ikon boyutu */
+        }
+}
+
 
 
 

@@ -30,28 +30,23 @@
             <a href="/Home/About">About Us</a>
             <a href="/Home/Contact">Contact</a>
             @Html.Partial("_LoginPartial")
-
-
         </nav>
-        <!--
-                <div class="buttons">
-        <button>
-            <i class="fa-solid fa-magnifying-glass"></i>
-        </button>
-        <button>
-            <i class="fa-solid fa-cart-shopping"></i>
-        </button>
-        <button onclick="window.location.href='@Url.Action("Login", "Account")'" class="btn btn-primary">
-            <i class="fa-solid fa-user"></i> Login
-        </button>
-    </div>
 
-                -->
+        <div class="buttons">
+            <button>
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+            <button class="cart-summary">
+                <i class="fa-solid fa-cart-shopping"></i>
+                @Html.Action("Summary", "Cart") <!-- Sepet özeti buraya yerleştirildi -->
+            </button>
 
-
+            <button onclick="window.location.href='@Url.Action("Login", "Account")'" class="btn btn-primary">
+                <i class="fa-solid fa-user"></i> Login
+            </button>
+        </div>
     </header>
 
- 
     <main>
         @RenderBody()
     </main>
@@ -59,14 +54,14 @@
     <footer class="footer">
         <div class="footer-container">
             <div class="footer-row">
-             
+
                 <div class="footer-column">
                     <h4>About Us</h4>
                     <p>We provide high-quality services with a customer satisfaction focus, becoming a leading company in the industry.</p>
                     <a href="@Url.Action("About", "Home")" class="footer-link">Learn More</a>
                 </div>
 
-               
+
                 <div class="footer-column">
                     <h4>Contact</h4>
                     <ul class="footer-list">
@@ -82,11 +77,11 @@
                         <li><a href="/Home/Index"><i class="fas fa-chevron-right"></i> Gizlilik Politikası</a></li>
                         <li><a href="/Home/About"><i class="fas fa-chevron-right"></i> Hizmet Koşulları</a></li>
                         <li><a href="/Home/Contact"><i class="fas fa-chevron-right"></i> Return Policy</a></li>
-                     
+
                     </ul>
                 </div>
 
-             
+
                 <div class="footer-column">
                     <h4>Follow Us</h4>
                     <div class="footer-social-icons">
