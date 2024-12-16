@@ -1,4 +1,3 @@
-
 @model  E_SHOPPING_WEB_SITE.Entity.Cart
 @{
     ViewBag.Title = "Index";
@@ -46,8 +45,8 @@
                                     @using (Html.BeginForm("RemoveFromCart", "Cart"))
                                     {
                                         @Html.Hidden("Id", item.Product.Id)
-                                        <button type="submit">
-                                            <i class="fa-solid fa-cart-shopping"></i>
+                                        <button type="submit" class="delete-button">
+                                            <i class="fa fa-trash-o" aria-hidden="true"></i>
                                             Delete
                                         </button>
                                     }
@@ -58,7 +57,7 @@
                     </tbody>
                     <tfoot>
                         <tr>
-                            <td colspan="5"></td>
+                            <td colspan="4"></td>
                             <td>
                                 @Model.Total().ToString("c");
                             </td>

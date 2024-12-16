@@ -7,13 +7,13 @@ namespace E_SHOPPING_WEB_SITE.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.5.1")]
-    public sealed partial class UpdateDatabase : IMigrationMetadata
+    public sealed partial class InitialMigration : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(UpdateDatabase));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(InitialMigration));
         
         string IMigrationMetadata.Id
         {
-            get { return "202412132113263_UpdateDatabase"; }
+            get { return "202412162221247_InitialMigration"; }
         }
         
         string IMigrationMetadata.Source

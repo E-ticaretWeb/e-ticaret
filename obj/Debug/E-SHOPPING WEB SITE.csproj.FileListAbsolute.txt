@@ -246,8 +246,6 @@ C:\Users\ahmtk\OneDrive\Masaüstü\e-ticaret\bin\roslyn\System.Buffers.dll
 C:\Users\ahmtk\OneDrive\Masaüstü\e-ticaret\bin\roslyn\System.Memory.dll
 C:\Users\ahmtk\OneDrive\Masaüstü\e-ticaret\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\ahmtk\OneDrive\Masaüstü\e-ticaret\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.csproj.AssemblyReference.cache
-C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.csproj.CoreCompileInputs.cache
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\bin\E-SHOPPING WEB SITE.dll.config
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\bin\E-SHOPPING WEB SITE.dll
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\bin\E-SHOPPING WEB SITE.pdb
@@ -385,9 +383,11 @@ C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\bin\System.Web.Razor.xml
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\bin\System.Web.WebPages.xml
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\bin\System.Web.WebPages.Deployment.xml
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\bin\System.Web.WebPages.Razor.xml
+C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.csproj.AssemblyReference.cache
+C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E_SHOPPING_WEB_SITE.Migrations.InitialCreate.resources
+C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E_SHOPPING_WEB_SITE.Migrations.InitialMigration.resources
+C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.csproj.GenerateResource.cache
+C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.csproj.CoreCompileInputs.cache
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPI.CD7A0A63.Up2Date
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.dll
 C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.pdb
-C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E_SHOPPING_WEB_SITE.Migrations.InitialCreate.resources
-C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E-SHOPPING WEB SITE.csproj.GenerateResource.cache
-C:\Users\sumer\OneDrive\Belgeler\GitHub\e-ticaret\obj\Debug\E_SHOPPING_WEB_SITE.Migrations.UpdateDatabase.resources

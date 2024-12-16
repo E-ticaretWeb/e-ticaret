@@ -13,8 +13,7 @@ namespace E_SHOPPING_WEB_SITE.Controllers
     {
         DataContext _context = new DataContext();
 
-        public ActionResult Index()
-        { return View(_context.Products.ToList()); }
+        public ActionResult Index() => View(_context.Products.ToList());
 
         public ActionResult Details(int id)
         {

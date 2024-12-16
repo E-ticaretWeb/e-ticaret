@@ -288,13 +288,13 @@
     <Compile Include="Identity\ApplicationUser.cs" />
     <Compile Include="Identity\IdentityDataContext.cs" />
     <Compile Include="Identity\IdentityInitializer.cs" />
-    <Compile Include="Migrations\202412082320331_InitialCreate.cs" />
-    <Compile Include="Migrations\202412082320331_InitialCreate.Designer.cs">
-      <DependentUpon>202412082320331_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\202412162137598_InitialCreate.cs" />
+    <Compile Include="Migrations\202412162137598_InitialCreate.Designer.cs">
+      <DependentUpon>202412162137598_InitialCreate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202412132113263_UpdateDatabase.cs" />
-    <Compile Include="Migrations\202412132113263_UpdateDatabase.Designer.cs">
-      <DependentUpon>202412132113263_UpdateDatabase.cs</DependentUpon>
+    <Compile Include="Migrations\202412162221247_InitialMigration.cs" />
+    <Compile Include="Migrations\202412162221247_InitialMigration.Designer.cs">
+      <DependentUpon>202412162221247_InitialMigration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Login.cs" />
@@ -316,8 +316,8 @@
     <Content Include="Views\Category\CategoryMenu.cshtml" />
     <Content Include="Views\Category\CategoryProducts.cshtml" />
     <Content Include="Views\Shared\_ProductList.cshtml" />
-    <Content Include="Views\Cart\CartIndex.cshtml" />
-    <Content Include="Views\Cart\CartSummary.cshtml" />
+    <Content Include="Views\Cart\Index.cshtml" />
+    <Content Include="Views\Cart\Summary.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -329,11 +329,11 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202412082320331_InitialCreate.resx">
-      <DependentUpon>202412082320331_InitialCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202412162137598_InitialCreate.resx">
+      <DependentUpon>202412162137598_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202412132113263_UpdateDatabase.resx">
-      <DependentUpon>202412132113263_UpdateDatabase.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202412162221247_InitialMigration.resx">
+      <DependentUpon>202412162221247_InitialMigration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -98,8 +98,8 @@
     font-size: 1.2rem;
 }
 
-/* Cart Summary */
-.cart-summary {
+/* Summary */
+.summary {
     display: flex;
     justify-content: flex-end;
     padding: 1rem 0;
@@ -108,6 +108,44 @@
     color: #333;
 }
 
-    .cart-summary span {
+    .summary span {
         color: #007bff;
     }
+
+/* Delete Button Styling */
+.delete-button {
+    background-color: var(--cart-button-bg);
+    color: var(--cart-button-text);
+    padding: 0.3rem 1rem; /* Daha küçük buton */
+    font-size: 0.9rem; /* Yazý boyutunu küçült */
+    border: none;
+    border-radius: 3px; /* Daha yumuþak köþeler */
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+    .delete-button:hover {
+        background-color: var(--cart-button-hover-bg);
+        transform: scale(1.05); /* Hover durumunda hafif büyüme efekti */
+    }
+
+
+
+.table {
+    width: 100%; /* Tablonun tam geniþlikte olmasýný saðlar */
+    font-size: 1.1rem; /* Yazý boyutunu biraz büyüt */
+}
+
+    .table img {
+        width: 70px; /* Resmin boyutunu büyüt */
+        height: auto;
+    }
+
+    .table th, .table td {
+        padding: 1rem 1.5rem; /* Hücrelerin iç boþluðunu artýr */
+    }
+
+
+.table tfoot td {
+    font-weight: bold;
+}

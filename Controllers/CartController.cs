@@ -7,7 +7,7 @@ namespace E_SHOPPING_WEB_SITE.Controllers
 {
     public class CartController : Controller
     {
-        private DataContext db = new DataContext();
+        private DataContext _context = new DataContext();
 
         // GET: Cart
         public ActionResult Index()
@@ -15,20 +15,21 @@ namespace E_SHOPPING_WEB_SITE.Controllers
             return View(GetCart());
         }
 
-        public ActionResult AddToCart(int Id)
+        public ActionResult AddProduct(int Id)
         {
-            var product = db.Products.FirstOrDefault(i => i.Id == Id);
+            var product = _context.Products.FirstOrDefault(i => i.Id == Id);
             if (product != null)
             {
-                GetCart().AddToCart(product, 1);
+                GetCart().AddProduct(product, 1);
             }
 
             return RedirectToAction("Index");
         }
 
+
         public ActionResult RemoveFromCart(int Id)
         {
-            var product = db.Products.FirstOrDefault(i => i.Id == Id);
+            var product = _context.Products.FirstOrDefault(i => i.Id == Id);
             if (product != null)
             {
                 GetCart().DeleteProduct(product);

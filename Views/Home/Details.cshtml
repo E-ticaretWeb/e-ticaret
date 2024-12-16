@@ -53,7 +53,7 @@
                     <div class="product-list-price">
                         <strong>₺@Model.Price.ToString("F2")</strong></p>
                     </div>
-                    </div>
+                </div>
             </div>
 
             <!-- Fav and Comment -->
@@ -64,41 +64,45 @@
             </div>
 
             <!-- Add to Cart -->
-            <div class="add-to-cart">
-                <input type="number" min="1" value="1" class="quantity form-control" />
-                <button class="add-to-cart-button btn">Sepete Ekle</button>
-                <button class="favorite-button btn">
-                    <i class="fa-solid fa-heart"></i>
-                </button>
-            </div>
+            @using (Html.BeginForm("AddProduct", "Cart"))
+            {
+                @Html.HiddenFor(i => i.Id)
+                <div class="add-to-cart">
+                    <button type="submit" class="add-to-cart-button btn">
+                        <i class="fa-solid fa-cart-shopping"></i>
+                        Add To Cart
+                    </button>
+                </div>
+            }
         </div>
     </div>
+</div>
 
-    <!-- tabs -->
-    <div class="details-tabs mt-5">
-        <ul class="nav nav-tabs" id="detailsTab" role="tablist">
-            <li class="nav-item">
-                <button class="nav-link active" id="features-tab" data-bs-toggle="tab" data-bs-target="#features" type="button" role="tab">Ürün Özellikleri</button>
-            </li>
-            <li class="nav-item">
-                <button class="nav-link" id="reviews-tab" data-bs-toggle="tab" data-bs-target="#reviews" type="button" role="tab">Yorumlar</button>
-            </li>
-            <li class="nav-item">
-                <button class="nav-link" id="policy-tab" data-bs-toggle="tab" data-bs-target="#policy" type="button" role="tab">İade Politikası</button>
-            </li>
-        </ul>
-        <div class="tab-content mt-3" id="detailsTabContent">
-            <div class="tab-pane fade show active" id="features" role="tabpanel">
-                <ul>
-                    <li>@Model.Description</li>
-                </ul>
-            </div>
-            <div class="tab-pane fade" id="reviews" role="tabpanel">
-                <p>Henüz yorum yapılmamış. İlk yorumu siz yapabilirsiniz!</p>
-            </div>
-            <div class="tab-pane fade" id="policy" role="tabpanel">
-                <p>İade politikamız kapsamında 30 gün içinde ürünleri iade edebilirsiniz. Detaylar için müşteri hizmetlerine başvurun.</p>
-            </div>
+<!-- tabs -->
+<div class="details-tabs mt-5">
+    <ul class="nav nav-tabs" id="detailsTab" role="tablist">
+        <li class="nav-item">
+            <button class="nav-link active" id="features-tab" data-bs-toggle="tab" data-bs-target="#features" type="button" role="tab">Ürün Özellikleri</button>
+        </li>
+        <li class="nav-item">
+            <button class="nav-link" id="reviews-tab" data-bs-toggle="tab" data-bs-target="#reviews" type="button" role="tab">Yorumlar</button>
+        </li>
+        <li class="nav-item">
+            <button class="nav-link" id="policy-tab" data-bs-toggle="tab" data-bs-target="#policy" type="button" role="tab">İade Politikası</button>
+        </li>
+    </ul>
+    <div class="tab-content mt-3" id="detailsTabContent">
+        <div class="tab-pane fade show active" id="features" role="tabpanel">
+            <ul>
+                <li>@Model.Description</li>
+            </ul>
+        </div>
+        <div class="tab-pane fade" id="reviews" role="tabpanel">
+            <p>Henüz yorum yapılmamış. İlk yorumu siz yapabilirsiniz!</p>
+        </div>
+        <div class="tab-pane fade" id="policy" role="tabpanel">
+            <p>İade politikamız kapsamında 30 gün içinde ürünleri iade edebilirsiniz. Detaylar için müşteri hizmetlerine başvurun.</p>
         </div>
     </div>
+</div>
 </div>
